@@ -1,3 +1,3 @@
-def call() {
-  sh 'echo Hi From DevOps Vishal'
+def vishalcall() {
+  sh 'echo Hi From DevOps Vishal this is shared library example'
 }
