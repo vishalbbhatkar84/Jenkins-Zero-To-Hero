@@ -1,3 +1,3 @@
 def vishalcall() {
-  sh 'mvn clean install'
-  }
+  sh 'echo Test vishal from test helloworld groovy'
+}
